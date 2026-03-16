@@ -1,5 +1,4 @@
 ![image](https://i.pinimg.com/originals/32/91/ca/3291caa59eb724bb7eb7659b49d4ec1f.gif)
-# Alejandro Galo
 
 **Student**
 
@@ -7,8 +6,7 @@
 
 ## About Me
 
-I am interested in **backend development**, **automation**, and **systems engineering**.  
-Most of my work focuses on building reliable software, experimenting with system-level concepts, and improving development workflows through automation.
+I am interested in **backend development**.  
 
 ---
 
@@ -24,14 +22,14 @@ Most of my work focuses on building reliable software, experimenting with system
 **Databases**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql" />
   </a>
 </p>
 
 **Tools**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker" />
+    <img src="https://skillicons.dev/icons?i=git,docker,blender" />
   </a>
 </p>
 
@@ -43,12 +41,4 @@ Most of my work focuses on building reliable software, experimenting with system
 
 ---
 
-<!--
-Future sections you may want to add later:
-
-## Featured Projects
-## Currently Learning
-## Contact
-## GitHub Stats
--->
 ![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAlele&show_icons=true&theme=tokyonight)
